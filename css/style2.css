@@ -107,7 +107,7 @@
     opacity: 1;
 }
 .cover{
-    background: url(/IMG/sporters.gif);
+    background: url("../IMG/sporters.gif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100px;
